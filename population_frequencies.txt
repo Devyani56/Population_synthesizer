@@ -1,0 +1,15 @@
+Variable: Sex
+Male: 25778
+Female: 24222
+
+Variable: Age_group
+Below 22 years: 17593
+22-60 years: 29657
+Above 60 years: 2750
+
+Variable: Highest_education_level
+No formal education: 7826
+Primary education: 6524
+Secondary education: 24593
+Graduation and above: 11057
+
